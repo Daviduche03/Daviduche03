@@ -1,34 +1,34 @@
 # Hi there! 👋 I'm David Uche
 
-Welcome to my GitHub! I’m a passionate AI/ML practitioner, tech enthusiast, and the founder of [BrimInk](https://brimink.xyz) — an AI-powered tool for researchers and writers. Here, you'll find a range of projects, from real-world applications to open-source contributions, all driven by a commitment to innovation in **education, health,** and **agriculture.**
+Welcome to my GitHub! I’m a passionate AI/ML practitioner, tech enthusiast, and aspiring innovator with a strong drive to tackle real-world challenges through technology. Here, you'll find projects focused on **education, health,** and **agriculture** — areas where I hope to make a lasting impact.
 
-- 🌱 Currently, I'm advancing my skills in **computer vision** and **natural language processing**, while exploring **brainwave interpretation** and **fine-tuning models.**
-- 👀 My interests span from **real-world problem-solving** in AI and ML to **physics simulations** and **fraud detection.**
-- 💼 Open to **collaborating on impactful projects** or exploring **internship opportunities** in AI research.
-- 💬 Let's connect! I'm always up for discussions about technology, new ideas, or creative challenges.
+- 🌱 Currently advancing my skills in **computer vision** and **natural language processing**, while exploring **fraud detection** and **fine-tuning models.**
+- 👀 My interests range from **real-world problem-solving** in AI/ML to **physics simulations** and **synthetic data generation.**
+- 💼 Open to **collaborations** on impactful projects or **internship opportunities** in AI research.
+- 💬 Always up for discussions about technology, new ideas, or creative challenges.
 
 ---
 
 ## 🛠 My Current Focus
-- Building **BrimInk**, an AI-driven writing tool that integrates citation management, peer reviews, and document interactions.
-- Experimenting with **multimodal AI** to create intelligent, responsive agents for learning platforms.
-- Developing **fraud detection models** with feature engineering and advanced metrics for better interpretability.
-- Working on **open-source AI/ML projects** in computer vision and NLP to help others learn and make an impact.
+- **Personalized Learning Platforms**: Building real-time learning apps with interactive AI agents to create an engaging, classroom-like experience.
+- **Fraud Detection Models**: Developing synthetic datasets and focusing on feature engineering and interpretability for improved fraud detection.
+- **AI/ML Courses**: Going in-depth into each module to master fundamental ML skills for future project applications.
+- **Physics Simulations**: Experimenting with simulations to explore potential applications in research and education.
 
 ---
 
 ## 🌟 Featured Projects
-### BrimInk
-An AI-powered research assistant that simplifies writing, citation management, and document analysis.
+### Personalized Learning App
+A real-time, interactive learning platform that uses intelligent AI agents to simulate a classroom environment. Built with WebSockets, it enables real-time user interactions and seamless classroom management.
 
-### Real vs AI-Generated Image Classification
-A project to distinguish between real and AI-generated images by reverse-engineering diffusion models and analyzing feature plots.
+### Fraud Detection System
+A synthetic data project for training models on transaction data. This includes advanced feature engineering, handling data imbalance, and building interpretable models to minimize false positives and improve decision-making.
 
-### Fraud Detection
-Creating synthetic datasets for transaction modeling, focusing on feature engineering, cost-sensitive learning, and handling imbalanced data.
+### Visual Question Answering
+Experimenting with vision-language models to answer questions based on visual inputs. Current challenges are informing ongoing work to improve model performance and robustness.
 
-### Physics Simulations
-Exploring simulations that can aid in research and learning in physics and engineering.
+### Machine Learning 101
+A comprehensive study of fundamental ML concepts and practices. Each module is explored thoroughly to gain a solid foundation in ML problem-solving.
 
 ---
 
@@ -42,10 +42,8 @@ Exploring simulations that can aid in research and learning in physics and engin
 ## 🚀 Tech Stack & Tools
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-0066ff?style=for-the-badge)
-![NLP](https://img.shields.io/badge/-NLP-ffa500?style=for-the-badge)
 ![Computer Vision](https://img.shields.io/badge/-Computer%20Vision-ff0066?style=for-the-badge)
 ![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
 
