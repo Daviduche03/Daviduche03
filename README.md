@@ -10,7 +10,7 @@ Welcome to my GitHub! I’m a passionate AI/ML practitioner and tech enthusiast 
 ---
 
 ## 🛠 Current Focus & Projects
-- **Personalized Learning App**: Developing an interactive, real-time learning platform with intelligent AI agents to simulate classroom-like experiences.
+
 - **Fraud Detection Model**: Building a feature-rich synthetic data pipeline with cost-sensitive learning, interpretability, and metrics from previous transactions for decision support.
 - **Machine Learning 101 Course**: Mastering ML fundamentals through in-depth study, aimed at problem-solving-oriented learning.
 - **Physics Simulations**: Experimenting with simulations for potential applications in education and research.
@@ -18,17 +18,11 @@ Welcome to my GitHub! I’m a passionate AI/ML practitioner and tech enthusiast 
 ---
 
 ## 🌟 Featured Projects
-### Personalized Learning Platform
-A real-time platform that uses AI agents to create a classroom environment, enabling interactive learning and real-time user management.
-
 ### Fraud Detection System
 A project focused on synthetic data generation, advanced feature engineering, and balancing data for training robust, interpretable fraud detection models.
 
 ### Visual Question Answering
 Exploring vision-language models to address challenges in answering questions based on visual inputs, enhancing multimodal understanding in AI systems.
-
-### Physics Simulations
-A series of experiments in physics simulations aimed at creating accessible learning tools in physics and engineering.
 
 ---
 
