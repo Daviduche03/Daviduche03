@@ -2,24 +2,14 @@
 
 Welcome to my GitHub! I’m a passionate AI/ML practitioner and tech enthusiast with a strong drive to solve real-world challenges through innovative technology. My projects focus on **education, health,** and **agriculture**, fields where I aim to make a lasting impact.
 
-- 🌱 Currently diving deep into **computer vision**, **NLP**, and **synthetic data generation** for enhanced **fraud detection**.
-- 👀 My interests include **physics simulations**, **personalized learning platforms**, and **multimodal AI systems**.
+- 🌱 Currently diving deep into **computer vision** and **NLP**.
+- 👀 My interests include **personalized learning platforms**, and **multimodal AI systems**.
 - 💼 Open to **collaborations** on impactful projects or **internship opportunities** in AI research.
 - 💬 Always excited to discuss new ideas, emerging tech, and research challenges!
 
 ---
 
-## 🛠 Current Focus & Projects
-
-- **Fraud Detection Model**: Building a feature-rich synthetic data pipeline with cost-sensitive learning, interpretability, and metrics from previous transactions for decision support.
-- **Machine Learning 101 Course**: Mastering ML fundamentals through in-depth study, aimed at problem-solving-oriented learning.
-- **Physics Simulations**: Experimenting with simulations for potential applications in education and research.
-
----
-
 ## 🌟 Featured Projects
-### Fraud Detection System
-A project focused on synthetic data generation, advanced feature engineering, and balancing data for training robust, interpretable fraud detection models.
 
 ### Visual Question Answering
 Exploring vision-language models to address challenges in answering questions based on visual inputs, enhancing multimodal understanding in AI systems.
