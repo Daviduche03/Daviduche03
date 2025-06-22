@@ -1,20 +1,6 @@
 # Hi there! 👋 I'm David Uche
 
-Welcome to my GitHub! I’m a passionate AI/ML practitioner and tech enthusiast with a strong drive to solve real-world challenges through innovative technology. My projects focus on **education, health,** and **agriculture**, fields where I aim to make a lasting impact.
 
-- 🌱 Currently diving deep into **computer vision** and **NLP**.
-- 👀 My interests include **personalized learning platforms**, and **multimodal AI systems**.
-- 💼 Open to **collaborations** on impactful projects or **internship opportunities** in AI research.
-- 💬 Always excited to discuss new ideas, emerging tech, and research challenges!
-
----
-
-## 🌟 Featured Projects
-
-### Visual Question Answering
-Exploring vision-language models to address challenges in answering questions based on visual inputs, enhancing multimodal understanding in AI systems.
-
----
 
 ## 📊 GitHub Stats
 
