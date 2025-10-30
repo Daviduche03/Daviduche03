@@ -11,7 +11,9 @@ Always experimenting. Always building. ⚡
 
 <p><img align="center" style="width:10rem" src="https://wakatime.com/badge/user/ff25ea76-1c3d-4193-805a-45d2dffcecbf.svg" alt="daviduche03" /></p>
 
-<p><img align="center" style="width:100%" src="https://github-readme-streak-stats.herokuapp.com/?user=daviduche03&theme=highcontrast" alt="daviduche03" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=daviduche03&theme=highcontrast&hide_border=false" alt="GitHub Streak" />
+</p>
 
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=daviduche03&label=Profile%20views&color=0e75b6&style=flat-square" alt="daviduche03" />
@@ -55,8 +57,6 @@ Always experimenting. Always building. ⚡
 <a href="https://twitter.com/daviduche03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="daviduche03" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/daviduche03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daviduche03" height="30" width="40" /></a>
 <a href="https://instagram.com/daviduche03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="daviduche03" height="30" width="40" /></a>
-<a href="https://medium.com/@daviduche03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@daviduche03" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@daviduche03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@daviduche03" height="30" width="40" /></a>
 </p>
 
 ---
