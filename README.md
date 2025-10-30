@@ -12,7 +12,7 @@ Always experimenting. Always building. ⚡
 <p><img align="center" style="width:10rem" src="https://wakatime.com/badge/user/ff25ea76-1c3d-4193-805a-45d2dffcecbf.svg" alt="daviduche03" /></p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=daviduche03&theme=highcontrast&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=daviduche03&theme=highcontrast" alt="GitHub Streak" />
 </p>
 
 <p align="left">
