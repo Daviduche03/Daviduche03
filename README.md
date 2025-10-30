@@ -1,27 +1,51 @@
-# Hi there! 👋 I'm David Uche
+<h2 align="center" style="font-size:1rem">
+Hi 👋, I'm <b>David Uche</b> — an <b>AI Engineer</b>, builder, and founder of <a href="https://brimink.xyz">BrimInk</a> and <a href="#">Klotique</a>.  
+I specialize in <b>Computer Vision</b>, <b>Natural Language Processing</b>, and <b>LLM integration</b> — creating intelligent systems that think, teach, and enhance human capability.  
+I’m driven by curiosity and impact — focused on transforming how we learn, live, and connect through AI.  
+Let’s build something extraordinary together 🚀
+</h2>
 
+<h3 align="center">AI Engineer | Fullstack Engineer </h3>
 
+<p><img align="center" style="width:10rem" src="https://wakatime.com/badge/user/ff25ea76-1c3d-4193-805a-45d2dffcecbf.svg" alt="david-uche" /></p>
 
-## 📊 GitHub Stats
+<p><img align="center" style="width:100%" src="https://github-readme-streak-stats.herokuapp.com/?user=david-uche&theme=highcontrast" alt="david-uche" /></p>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=daviduche03&layout=compact&theme=algolia)](https://github.com/daviduche03)
-[![David's GitHub Stats](https://github-readme-stats.vercel.app/api?username=daviduche03&theme=algolia&show_icons=true)](https://github.com/daviduche03)
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=david-uche&label=Profile%20views&color=0e75b6&style=flat-square" alt="david-uche" />
+</p>
 
----
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=david-uche"/>
+  </a>
+</p>
 
-## 🚀 Tech Stack & Tools
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-0066ff?style=for-the-badge)
-![Computer Vision](https://img.shields.io/badge/-Computer%20Vision-ff0066?style=for-the-badge)
-![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=david-uche" alt="david-uche" />
+  </a>
+</p>
 
----
+<p align="left">
+  <a href="https://twitter.com/daviduche_ai" target="blank">
+    <img src="https://img.shields.io/twitter/follow/daviduche_ai?logo=twitter&style=for-the-badge" alt="daviduche_ai" />
+  </a>
+</p>
 
-## 📫 Let’s Connect
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daviduche03/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/daviduche03)
-[![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-ffcc00?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/daviduche03)
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
-Thanks for visiting my GitHub profile! Feel free to explore my projects, reach out, or discuss any exciting collaboration opportunities!
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/daviduche_ai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="daviduche_ai" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/daviduche" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daviduche" height="30" width="40" /></a>
+<a href="https://instagram.com/david_uche_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="david_uche_" height="30" width="40" /></a>
+<a href="https://medium.com/@daviduche" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@daviduche" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@daviduche" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@daviduche" height="30" width="40" /></a>
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=david-uche&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="david-uche" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=david-uche&show_icons=true&theme=highcontrast&locale=en" alt="david-uche" /></p>
